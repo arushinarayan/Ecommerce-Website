@@ -5,7 +5,7 @@
 To do this assessment, the [Ecommerce-boilerplate](https://github.com/gurukishore111/Ecommerce-boilerplate) web app was used
 
 
-## Application Functionalities?
+## Application Functionalities
 
 - Navigation Bar for easy access to all the pages
 - Login Page where the User can login and move forward to the home page
@@ -52,6 +52,6 @@ With more time, the bugs could have been fixed and smaller UI/UX issues such as 
 
 ## Conclusion
 
-While this isn't the best work I've done, I enjoyed working on this project and am looking forward to any and all feedback! Thank You for the Opportunity
+While this isn't the best work I've done, I enjoyed working on this project.
 
 ---
